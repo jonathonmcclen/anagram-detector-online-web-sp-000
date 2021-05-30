@@ -8,6 +8,6 @@ class Anagram
   
   def match(array)
     puts array
-    array.detect {|set| set == @word}
+    
   end 
 end 
