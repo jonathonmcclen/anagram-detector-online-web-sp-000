@@ -16,5 +16,6 @@ class Anagram
         match_array << w
       end
     end
+    match_array
   end 
 end 
